@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.insta-logo {
+    height: 200px;
+    width: 200px;
+    background: radial-gradient(circle at 33% 100%, #e4b10c 5%, #f15245 30%, #d92e7f 85%, #515ecf);
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.inair-box {
+    height: 8rem;
+    width: 8rem;
+    border: 10px solid #fff;
+    border-radius: 25px;
+    display: flex;
+}
+
+.inair-circule {
+    border: 10px solid #fff;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.inair-dot {
+    height: 20px;
+    width: 20px;
+    background: #fff;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
